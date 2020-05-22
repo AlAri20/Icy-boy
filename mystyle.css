@@ -6,3 +6,10 @@ h1 {
   color: blue;
 }
 
+a:link {
+  color: green;
+}
+
+a:hover {
+  color: yellow;
+}
